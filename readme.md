@@ -1,4 +1,4 @@
-# AnoGAN-lhb
+# AnoGAN-in-PDN (Power Distribution Network)
 
 ## Introduction
 
